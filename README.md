@@ -1,6 +1,6 @@
 # `node_modules` Cleaner
 
-A Bash script to find and delete all `node_modules` directories within a specified directory.
+A Bash script to find and delete all `node_modules` directories within a specified path.
 
 ## Features
 
